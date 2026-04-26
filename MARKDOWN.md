@@ -2,4 +2,4 @@ I chose to begin with pd.read_csv because I knew from other projects that read_c
 
 Additional Note: I would have spent more time on the scatterplots but I am feeling unwell at the time of writing this which is why I didn't try to see what is wrong with my scatterplots.
 
-Additional Note: I remembered the feedback from a few weeks ago to have iterative outputs, hence separating each plot into its own script. I learned hwo to import the main script to the plot scripts in another course.
+Additional Note: I remembered the feedback from a few weeks ago to have iterative outputs, hence separating each plot into its own script. I learned how to import the main script to the plot scripts in another course.
